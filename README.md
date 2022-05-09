@@ -11,9 +11,9 @@ This is a classifier of music samples between 10 genres, based on the GTZAN data
  - reggae
  - rock
 
-It uses a customized CNN, reaching a test accuracy of ~80%. 
+It uses a customized CNN, reaching a test accuracy of ~80%. The `genre-classification.ipynb` file contains the code for the project. 
 
-### Installation, usage
+### Setup
 Install the project dependencies using the `requirements.txt` file (in a virtual environment):
 ```bash 
 pip install -r requirements.txt
